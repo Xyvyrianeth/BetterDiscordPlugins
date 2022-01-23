@@ -7,5 +7,5 @@ Ideal for responsible adults who have their secondary monitors in portrait mode 
 
 <img src="https://raw.githubusercontent.com/Xyvyrianeth/BetterDiscordPlugins/main/CollapsibleSidebar/CollapsibleSidebar.gif" width=480>
 
-[icon]: https://img.shields.io/badge/Download-Call%20Time%20Counter-brightgreen.svg
+[icon]: https://img.shields.io/badge/Download-Collapsible%20Sidebar-brightgreen.svg
 [link]: https://betterdiscord.app/plugin/CollapsibleSidebar
