@@ -1,5 +1,6 @@
 # Collapsible Sidebar
  [![Download][icon]][link]
+
 Makes the channel list real narrow, then expands it when you hover over it or your server list.
 
 Ideal for responsible adults who have their secondary monitors in portrait mode (sideways/vertical).
